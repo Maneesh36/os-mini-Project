@@ -65,3 +65,6 @@ sudo ./engine stop beta
 
 - This project is meant to be run inside a Linux VM, not on Windows or WSL.
 - Kernel-module loading and namespace operations require root privileges in the VM.
+
+- SANAPALA VENKATA MANEESH (PES1UG24AM247)
+- SARANSH MITTAL (PES1UG24AM254)
